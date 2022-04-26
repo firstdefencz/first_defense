@@ -16,10 +16,3 @@
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
 
-# localhost name resolution is handled within DNS itself.
-#	127.0.0.1       localhost
-#	::1             localhost
-# BEGIN section for OpenVPN Client SSL sites
-127.94.0.1	client.openvpn.net
-127.94.0.2	openvpn-client.openvpnas2.controlcase.com
-# END section for OpenVPN Client SSL sites
